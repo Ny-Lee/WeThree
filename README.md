@@ -12,9 +12,11 @@ Needs any kind of code editor to open up files, and need to install Xampp to run
 
 ## Deployment
 
-1. Start Xampp
-2. Start MySQL and Apache
-3. Open any web browser and go to localhost
+1. Start Xampp.
+2. Start MySQL and Apache.
+3. Open any web browser and go to localhost.
+4. Go to phpMyAdmin and add a database called WeThree, then import sql file called WeThree.
+5. Then go back to localhost.
 
 ## Built With
 
