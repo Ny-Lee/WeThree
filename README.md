@@ -20,9 +20,9 @@ Needs any kind of code editor to open up files, and need to install Xampp to run
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Developing Environment: JavaScript
+* Client Production Environment: Web Browser (HTML5), PHP
+* Server Production Environment: MySQL
 
 ## Contributing
 
